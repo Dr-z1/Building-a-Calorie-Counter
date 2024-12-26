@@ -1,33 +1,58 @@
-# Building-a-Calorie-Counter
+# **Calorie Counter Project**
 
-Learn JavaScript By Building Calorie-Counter
-
-This website was built using Free Code Camp instructions: Learn JavaScript By Building Calorie-Counter
+## **Project Overview**
 
 
-Section: JavaScript Algorithms and Data Structures (Beta)
+#### This Project Is A **Calorie Counter**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-Course Name: Learn Form Validation By Building A  Calorie-Counter
-
-Deatils: Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.
-
-In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more.
-
-WebSite Link:
-
-https://www.freecodecamp.org/
+#### The Primary Goal Is You Learned Validation By Building A Calorie Counter.
 
 
 
+## **Course Details**
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Role Playing Game.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
+
+## **Purpose**
+
+Sometimes When You're Coding A Web Application, You'll Need To Be Able To Accept Input From A User. 
+
+In This Calorie Counter Project, You'll Learn How To Validate User Input, Perform Calculations Based On That Input, And Dynamically Update Your Interface To Display The Results.  
+
+In This Practice Project, You'll Learn Basic Regular Expressions, Template Literals, The AddEventListener() Method, And More.
 
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+## **Acknowledgment**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
+
+
+
+
 
