@@ -14,7 +14,7 @@
 
 + **Course Section**: JavaScript Algorithms and Data Structures (Beta).
   
-+ **Project Name**: Role Playing Game.
++ **Project Name**: Calorie Counter.
   
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
